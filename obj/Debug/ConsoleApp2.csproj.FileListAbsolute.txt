@@ -1,0 +1,12 @@
+C:\Users\Ashish Agarwal\source\repos\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\Ashish Agarwal\source\repos\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\Ashish Agarwal\source\repos\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\Ashish Agarwal\source\repos\ConsoleApp2\bin\Debug\Google.Protobuf.dll
+C:\Users\Ashish Agarwal\source\repos\ConsoleApp2\bin\Debug\MySql.Data.dll
+C:\Users\Ashish Agarwal\source\repos\ConsoleApp2\bin\Debug\Google.Protobuf.xml
+C:\Users\Ashish Agarwal\source\repos\ConsoleApp2\bin\Debug\MySql.Data.xml
+C:\Users\Ashish Agarwal\source\repos\ConsoleApp2\obj\Debug\ConsoleApp2.csprojAssemblyReference.cache
+C:\Users\Ashish Agarwal\source\repos\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\Ashish Agarwal\source\repos\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CopyComplete
+C:\Users\Ashish Agarwal\source\repos\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\Ashish Agarwal\source\repos\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
